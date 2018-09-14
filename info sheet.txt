@@ -1,0 +1,52 @@
+Name: Samuel Birus     Assignment #: 1
+
+Program Due Date: 6/5/17
+
+Handed in Date: 6/5/17
+
+JDK Version: 1.8.0_131
+
+Source code file name(s):
+
+	AnagramSolver.java
+	DictInterface.java
+	DLB.java
+	MyDictionary.java
+	DictTest.java
+
+Compiled (.jar or .class) file name(s): 
+
+	AnagramSolver.class
+	DictInterface.class
+	DLB.class
+	MyDictionary.class
+	DictTest.class
+	DLB$NodeletResult.class
+	DLB$Nodelet.class
+
+Does your program compile without error?: yes
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: no
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+	The program finds all of the anagrams but it does not sort based on number of words in the anagram.  
+	It only sorts alphabetically.
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
